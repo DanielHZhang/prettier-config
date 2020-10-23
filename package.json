@@ -1,6 +1,6 @@
 {
   "name": "@supersede/prettier-config",
-  "description": "The optimal prettier config.",
+  "description": "The optimal prettier configuration",
   "version": "1.0.1",
   "main": "index.json",
   "author": "Daniel Zhang",
