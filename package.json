@@ -1,7 +1,7 @@
 {
   "name": "@supersede/prettier-config",
   "description": "The optimal prettier configuration",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "main": "index.json",
   "author": "Daniel Zhang",
   "license": "MIT",
@@ -10,6 +10,6 @@
     "url": "https://github.com/DanielHZhang/prettier-config"
   },
   "peerDependencies": {
-    "prettier": ">=2.0.0"
+    "prettier": ">=3.0.0"
   }
 }
